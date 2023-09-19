@@ -2,7 +2,7 @@
 
 # Meta Quest RPC
 
-**This is a public beta, there will be bugs, and lots of updates.**
+**This is a public beta, there will be bugs, and lots of updates**
 
 # Dependencies
 ## ADB (and added to PATH variable)
@@ -23,8 +23,16 @@ You can set package names to have nicknames on your profile instead (good if you
 
 # UI
 Displays the current open package/nickname (if you have one set)<br>
-Progress bar for how often it is updating the current open app (Every 15 seconds else you'll be rate-limited by Discord).<br>
+Progress bar for how often it is updating the current open app (Every 15 seconds else you'll be rate-limited by Discord)<br>
 ![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/e2ceb0ac-7eb3-4a76-b8ea-89ad9382e338)<br>
+
+# Performance
+I have worked very hard to have the performance of this be good and lightweight<br>
+![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/ffc273b2-d36b-4396-ae21-976c498e3951)<br>
+
+# Works in background
+When you close the app it will hide in the system tray where you can either show it or quit the app fully
+![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/6f1f3bc6-9072-4f3c-aaea-54ee64246a9a)
 
 # Bug Reporting
 Open an issue (https://github.com/streetlegithub/meta-quest-rpc/issues)<br>
