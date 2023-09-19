@@ -29,6 +29,7 @@ Progress bar for how often it is updating the current open app (Every 15 seconds
 # Bug Reporting
 Open an issue (https://github.com/streetlegithub/meta-quest-rpc/issues)<br>
 Also contact me on discord if you encounter any bugs or have any suggestions: **streetle**<br>
-
+<br>
+<br>
 
 The app does not auttomatically check for new releases on Github (yet) so be sure to regularly check here incase you have any bugs
