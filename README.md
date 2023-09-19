@@ -2,7 +2,7 @@
 
 # Meta Quest RPC
 
-**This is a public beta, there will be bugs. and lots of updates.**
+**This is a public beta, there will be bugs, and lots of updates.**
 
 # Dependencies
 ## ADB (and added to PATH variable)
