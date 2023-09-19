@@ -15,7 +15,7 @@ https://discord.com/download
 
 ## It is customisable
 You can set package names to have nicknames on your profile instead (good if you are working on a game yourself and wish to specify its name)
-![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/254e5a8d-0db3-4328-bf6d-9a92ad9fd7ed)
+![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/254e5a8d-0db3-4328-bf6d-9a92ad9fd7ed)<br>
 *Make sure you put a comma afterwards!*
 (This process will be made easier in the future)
 
