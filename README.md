@@ -31,8 +31,8 @@ I have worked very hard to have the performance of this be good and lightweight<
 ![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/ffc273b2-d36b-4396-ae21-976c498e3951)<br>
 
 # Works in background
-When you close the app it will hide in the system tray where you can either show it or quit the app fully
-![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/6f1f3bc6-9072-4f3c-aaea-54ee64246a9a)
+When you close the app it will hide in the system tray where you can either show it or quit the app fully<br>
+![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/6f1f3bc6-9072-4f3c-aaea-54ee64246a9a)<br>
 
 # Bug Reporting
 Open an issue (https://github.com/streetlegithub/meta-quest-rpc/issues)<br>
@@ -40,4 +40,4 @@ Also contact me on discord if you encounter any bugs or have any suggestions: **
 ![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/ffacb5a1-c955-424e-be38-1eb37010e445)<br>
 <br>
 
-The app does not auttomatically check for new releases on Github (yet) so be sure to regularly check here incase you have any bugs
+The app does not automatically check for new releases on Github (yet) so be sure to regularly check here incase you have any bugs
