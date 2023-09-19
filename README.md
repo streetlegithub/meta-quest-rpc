@@ -37,7 +37,7 @@ When you close the app it will hide in the system tray where you can either show
 # Bug Reporting
 Open an issue (https://github.com/streetlegithub/meta-quest-rpc/issues)<br>
 Also contact me on discord if you encounter any bugs or have any suggestions: **streetle**<br>
-<br>
+![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/ffacb5a1-c955-424e-be38-1eb37010e445)<br>
 <br>
 
 The app does not auttomatically check for new releases on Github (yet) so be sure to regularly check here incase you have any bugs
