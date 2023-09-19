@@ -9,6 +9,8 @@
 Tutorial: https://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378
 ## Discord
 https://discord.com/download<br>
+## Meta Quest 2 connected via a cable
+I know, its annoying. This will change in the future and have wireless capabilities
 
 # Set current Meta Quest 2 app/game to your Discord status.<br>
 ![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/4ff8bfa4-7125-43aa-ab38-14d00cdd488b)<br>
