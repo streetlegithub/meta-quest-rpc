@@ -10,10 +10,10 @@ Tutorial: https://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fas
 ## Discord
 https://discord.com/download
 
-## This allows you to set your current app on your quest to your Discord status.
+# Set current Meta Quest 2 app/game to your Discord status.
 ![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/4ff8bfa4-7125-43aa-ab38-14d00cdd488b)
 
-## It is customisable
+# Customisable
 You can set package names to have nicknames on your profile instead (good if you are working on a game yourself and wish to specify its name)<br>
 ![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/254e5a8d-0db3-4328-bf6d-9a92ad9fd7ed)<br>
 *Make sure you put a comma afterwards!*
