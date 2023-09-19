@@ -23,7 +23,7 @@ You can set package names to have nicknames on your profile instead (good if you
 
 # UI
 Displays the current open package/nickname (if you have one set)<br>
-Progress bar for how often it is updating the current open app (Every 15 seconds else you'll be rate-limited by Discord).
-![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/e2ceb0ac-7eb3-4a76-b8ea-89ad9382e338)
+Progress bar for how often it is updating the current open app (Every 15 seconds else you'll be rate-limited by Discord).<br>
+![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/e2ceb0ac-7eb3-4a76-b8ea-89ad9382e338)<br>
 
 At the moment this will *not automatically update*, so be sure to regularly check the repo
