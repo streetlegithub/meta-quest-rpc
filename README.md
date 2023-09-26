@@ -5,6 +5,8 @@
 **This is a public beta, there will be bugs, and lots of updates**
 
 # Dependencies
+## Developer mode
+Tutorial: https://vr.streetle.xyz/tutorials/enable-dev-mode-meta-quest-2.html
 ## ADB (and added to PATH variable)
 Tutorial: https://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378
 ## Discord
