@@ -33,7 +33,7 @@ I have worked very hard to have the performance of this be good and lightweight<
 ![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/ffc273b2-d36b-4396-ae21-976c498e3951)<br>
 
 # Works in background
-When you close the app it will hide in the system tray where you can either show it, quit the app fully or enable run on startup<br>
+When you close the app it will hide in the system tray where you can either show it, quit the app fully or enable run on startup (TEMPORARILY DISABLED)<br>
 ![image](https://github.com/streetlegithub/meta-quest-rpc/assets/88948099/4ed7087b-af4e-46fd-9950-7cac03d0da3a)<br>
 
 # Bug Reporting
